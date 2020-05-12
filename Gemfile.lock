@@ -3,7 +3,7 @@ PATH
   specs:
     omniauth-quickbooks-oauth2 (0.2.0.alpha)
       omniauth (~> 1.3)
-      omniauth-oauth2 (~> 1.6.0)
+      omniauth-oauth2
 
 GEM
   remote: https://rubygems.org/
